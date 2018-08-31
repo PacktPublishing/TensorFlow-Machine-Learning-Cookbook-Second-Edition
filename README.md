@@ -64,16 +64,15 @@ With the following software and hardware list you can run all code files present
 * Deep Learning with TensorFlow - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831109) [[Amazon]](https://www.amazon.com/dp/1788831101)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
+**Nick McClure**
+Nick McClure is currently a senior data scientist at PayScale, Inc. in Seattle, WA. Prior to this, he has worked at Zillow Group and Caesar's Entertainment Corporation. He got his degrees in Applied Mathematics from The University of Montana and the College of Saint
+Benedict and Saint John's University.
+He has a passion for learning and advocating for analytics, machine learning, and artificial intelligence. Nick occasionally puts his thoughts and musings on his blog, fromdata.org, or through his Twitter account, @nfmcclure.
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [TensorFlow Machine Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786462169)
+* [TensorFlow for Machine Learning Solutions [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781789136272)
+* [TensorFlow for Neural Network Solutions [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-neural-network-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343403)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
