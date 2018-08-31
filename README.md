@@ -41,7 +41,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter | Software required                   | OS required                        |
 | ------- | ------------------------------------| -----------------------------------|
-|   AlL   | tensorflow>=1.10.0                  | Windows, Mac OS X, and Linux (Any) |
+|   All   | tensorflow>=1.10.0                  | Windows, Mac OS X, and Linux (Any) |
 |         | matplotlib==2.2.2                   | Windows, Mac OS X, and Linux (Any) |
 |         | six==1.11.0                         | Windows, Mac OS X, and Linux (Any) |
 |         | requests==2.18.4                    | Windows, Mac OS X, and Linux (Any) |
@@ -59,9 +59,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* TensorFlow 1.x Deep Learning Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788293594) [[Amazon]](https://www.amazon.com/dp/1788293592)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Deep Learning with TensorFlow - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831109) [[Amazon]](https://www.amazon.com/dp/1788831101)
 
 ## Get to Know the Author(s)
 **Author Name**
